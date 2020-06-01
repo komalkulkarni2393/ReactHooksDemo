@@ -5,9 +5,28 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: aliceblue;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#loginForm {
+  margin: 5% auto;
+  width: 30%;
+  padding: 10px;
+}
+
+#links {
+  margin: 2%;
+}
+
+#linkToMap {
+  margin-right: 2%;
+}
+
+#myMap {
+  margin: 7%;
 }
